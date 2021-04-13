@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⭐  *Tech Blog: https://noahnam.github.io*
-- 🔗  *LinkedIn: [링크](https://www.linkedin.com/in/%EA%B8%B0%ED%98%81-%EB%82%A8-7716131a0/)
+- ⭐  *[Tech Blog](https://noahnam.github.io)*
+- 🔗  *[LinkedIn](https://www.linkedin.com/in/%EA%B8%B0%ED%98%81-%EB%82%A8-7716131a0/)*
 -  😄 *[Instagram](https://www.instagram.com/chacha_seoha/)* 
 -  📫 noah85.Nam@gmail.com
 
