@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⭐  *[Tech Blog](https://noahnam.github.io)*
 - 🔗  *[LinkedIn](https://www.linkedin.com/in/%EA%B8%B0%ED%98%81-%EB%82%A8-7716131a0/)*
 -  😄 *[Instagram](https://www.instagram.com/chacha_seoha/)* 
--  📫 noah85.Nam@gmail.com
+-  📫 *noah85.Nam@gmail.com*
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahNam)](https://github.com/anuraghazra/github-readme-stats)
 
