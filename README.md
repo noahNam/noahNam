@@ -22,6 +22,15 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahNam)](https://github.com/anuraghazra/github-readme-stats)
 
+### Graduation
+Master of Engineering
+
+- Sungkyunkwan University Dept. of Big Data
+
+Bachelor of Engineering
+
+- Chungbuk National University Dept. of Electrical Engineering
+
 ### Experience
 |Company   	|organization   	|Position   	|
 |---	      |---	            |---	        |
