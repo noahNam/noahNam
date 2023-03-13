@@ -34,7 +34,7 @@ Bachelor of Engineering
 ### Experience
 |Company   	|organization   	|Position   	|
 |---	      |---	            |---	        |
-|WantedLab  |Core Team        |Senior BacnEnd Enginner |
+|WantedLab  |Core Team        |Senior BackEnd Enginner |
 |Apartalk   |Engineering Team |BackEnd Lead	|
 |CUPIST     |Social Engineering Team   	|Social Team BackEnd Lead   	|
 |Nuriinfos  |Lab   	          |Software Engineer   	|
