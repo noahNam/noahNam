@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⭐  *[Tech Blog](https://noahnam.github.io)*
 - 🔗  *[LinkedIn](https://www.linkedin.com/in/%EA%B8%B0%ED%98%81-%EB%82%A8-7716131a0/)*
 -  😄 *[Instagram](https://www.instagram.com/chacha_seoha/)* 
 -  📫 *noah85.Nam@gmail.com*
@@ -35,8 +34,5 @@ Bachelor of Engineering
 |Company   	|organization   	|Position   	|
 |---	      |---	            |---	        |
 |WantedLab  |Core Team        |Senior BackEnd Enginner |
-|Apartalk   |Engineering Team |BackEnd Lead	|
-|CUPIST     |Social Engineering Team   	|Social Team BackEnd Lead   	|
-|Nuriinfos  |Lab   	          |Software Engineer   	|
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnoahNam%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
